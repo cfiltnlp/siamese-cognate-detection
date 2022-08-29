@@ -10,7 +10,7 @@
 
 ## About 
 
-The repository contains the Siamese FeedFoward implementation for the NLP task of True Cogante Detection. It can be extended for various similarity measure tasks for textual input.The code is implemented using PyTorch framework and uses the FastText Word Embeddings (P. Bojanowski,et al. Enriching Word Vectors with Subword Information) for Word Vector Representation.
+The repository contains the Siamese FeedFoward implementation for the NLP task of True Cogante Detection. It can be extended for various similarity measure tasks for textual input.The code is implemented using PyTorch framework and uses the FastText Word Embeddings (P. Bojanowski,et al. Enriching Word Vectors with Subword Information) for Word Vector Representation. The paper can be found [here](http://dipteshkanojia.github.io/publication/cods-2020-cognate/) and [here](https://dl.acm.org/doi/10.1145/3371158.3371207).
 
 It should be noted that the work on this paper was carried out by Sravan Munukutla and Sayali Ghodekar. 
 
@@ -18,7 +18,7 @@ It should be noted that the work on this paper was carried out by Sravan Munukut
 
 ![Architecture Diagram](Siamese.png)
 
-Siamese Neural Networks tries to learn a common subspace, by tying the trainable parameters of the Network.It uses the same weights while working in tandem on two different input vectors to compute comparable output vectors. The output vectors are compared using similarity scores like cosine similarity, Manhattan or Euclidean distances. The above architecture is designed to detect True Cognates amongs various Indian language pairs. The paper can be found [here](http://dipteshkanojia.github.io/publication/cods-2020-cognate/) and [here](https://dl.acm.org/doi/10.1145/3371158.3371207).
+Siamese Neural Networks tries to learn a common subspace, by tying the trainable parameters of the Network.It uses the same weights while working in tandem on two different input vectors to compute comparable output vectors. The output vectors are compared using similarity scores like cosine similarity, Manhattan or Euclidean distances. The above architecture is designed to detect True Cognates amongs various Indian language pairs. 
 
 ## Usage
 
