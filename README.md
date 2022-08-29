@@ -1,6 +1,6 @@
 <p align="center"><img src="cfilt-dark-vec.png" alt="Computation for Indian Language Technology Logo" width="150" height="150"/></p>
 
-# Siamese-Feed-Forword-Network-for-Cognate-Detection
+# Siamese Feed Forword Network for Cognate Detection
 
 [![GitHub issues](https://img.shields.io/github/issues/cfiltnlp/siamese-cognate-detection?style=flat-square)](https://github.com/cfiltnlp/siamese-cognate-detection/issues)
 [![GitHub forks](https://img.shields.io/github/forks/cfiltnlp/siamese-cognate-detection?style=flat-square)](https://github.com/cfiltnlp/siamese-cognate-detection/network)
